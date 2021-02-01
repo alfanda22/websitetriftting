@@ -37,3 +37,9 @@ D. JS:
 -script.css
 
 
+
+
+E. Berikut vidio di saat saya mengaplikasikan web :
+
+
+![2021-02-01-10-56-31-min](https://user-images.githubusercontent.com/77945678/106414168-8d0c9100-647e-11eb-97f2-61c0613dfd5a.gif)
